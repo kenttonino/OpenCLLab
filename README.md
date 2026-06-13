@@ -1,3 +1,3 @@
 ## Description
 
-> - Playground for Open Computing Language (OpenCL).
+> - Playground in learning Open Computing Language (OpenCL).
